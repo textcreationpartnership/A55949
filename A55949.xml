@@ -1,0 +1,258 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proceedings of the citizens of Hereford in the delivery up of their chapter and renewing of it vindicated from the scurrilous imputations of Richard Janeway / by a lover of the king, the government, and the city, in a letter to a friend.</title>
+            <author>Lover of the king, the government, and the city.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55949</idno>
+            <idno type="STC">Wing P3575</idno>
+            <idno type="STC">ESTC R2037</idno>
+            <idno type="EEBO-CITATION">12244278</idno>
+            <idno type="OCLC">ocm 12244278</idno>
+            <idno type="VID">56854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56854)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proceedings of the citizens of Hereford in the delivery up of their chapter and renewing of it vindicated from the scurrilous imputations of Richard Janeway / by a lover of the king, the government, and the city, in a letter to a friend.</title>
+                  <author>Lover of the king, the government, and the city.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joanna Brome,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint taken from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Janeway, Richard.</term>
+               <term>Herefordshire (England) --  History --  Sources.</term>
+               <term>Herefordshire (England) --  Charters.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:56854:1" rendition="simple:additions"/>
+            <head>THE PROCEEDINGS OF THE Citizens of Hereford IN THE Delivery up of their CHARTER and Renewing of it: Vindicated from the Scurrilous Imputations of <hi>Richard Janeway.</hi>
+            </head>
+            <byline>By a Lover of the King, the Government, and the City.</byline>
+            <head>In a Letter to a Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have of late ſeen a ſcurrilous Pamphlet, Intituled the <hi>Impartial Proteſtant Mercury,</hi> printed at <hi>London</hi> for <hi>Richard Janeway,</hi> Num. 114. in which his Majeſty's Goodneſs, Juſtice and Clemency are arraigned, and alſo the Mayor and indeed the Corporation of <hi>Hereford</hi> un<g ref="char:EOLhyphen"/>juſtly charged, as being abus'd in the manner of acting in the late delivery up of the Charter, as if the Mayor had been wrought upon contrary to his Inclination, and had pick'd out a time ſuitable to the purpoſe; Therefore I take leave to give you a true account out of the Records, of matter of Fact, that by the prudent, legal and deliberate proceeding of the Mayor herein, you may ſee he was not in the leaſt impoſed upon contrary to his Inclination, but rather actually and effectually followed the good Re<g ref="char:EOLhyphen"/>ſolutions he had upon mature deliberation taken up for the good of the City. For the better effecting hereof it is requiſite you have Mr. <hi>Janeway</hi>'s falſe and ſcandalous Relation upon the whole Action in his own words.</p>
+            <p>[From <hi>Hereford</hi> we are told that the bringing up of the Charter of that place ſome time ſince by the preſent Mayor is believed to have been much againſt his own In<g ref="char:EOLhyphen"/>clination, but that he was wrought upon to call a Com<g ref="char:EOLhyphen"/>mon Council, when divers of the old Aldermen and Common Council-Men who would have oppos'd it, were known to be abſent from the Town, and ſo the ſame was ordered. But lately a new Charter is return'd with ad<g ref="char:EOLhyphen"/>dition of a Fair and the words <hi>Quamdiu nobis placuerit,</hi> [as long as it ſhall be our Pleaſure,] The old Mayor is continued, but divers Eminent and Loyal Perſons fully known to be ſtrict Obſervers and great Favorers of the Church as by Law Eſtabliſh'd who have been Mayors, and ſundry Common Council-Men left out, and the Vacan<g ref="char:EOLhyphen"/>cies ſupplied by ſeveral Gentlemen and others about the Town; yet we do not hear of any thing pretended to be alledged againſt thoſe ſo omitted, and people are troubled to gueſs the Reaſon, unleſs it ſhould be that they voted for their late worthy Burgeſs, Eſq <hi>Foley;</hi> but this no diſcreet Man can believe to be the Cauſe, eſpeci<g ref="char:EOLhyphen"/>ally ſince tis not doubted, but whenever his ſacred Ma<g ref="char:EOLhyphen"/>jeſtie ſhall gratiously be pleaſed to command an elec<g ref="char:EOLhyphen"/>tion for Parliament, Mr. <hi>Foley</hi> will yet have as many Electors as ever.]</p>
+            <p>As to the Mayor's acting contrary to his inclinati<g ref="char:EOLhyphen"/>on, as being wrought upon to call a Common Council, when divers of the Old Aldermen and Common Council<g ref="char:EOLhyphen"/>men who would have oppos'd it, were known to be ab<g ref="char:EOLhyphen"/>ſent from the Town; the contrary does thus plainly appear: The Common Council conſiſts of 31, of which the Majority conclude, and make all Acts that paſs. Upon the 3d of <hi>February</hi> laſt a Common Council was called, at which were preſent 19. Of theſe 6 were Juſtices, 4 had formerly been Mayors, and 9 were of the Common Coun<g ref="char:EOLhyphen"/>cil; obſerve and you ſhall find in the farther progreſs of this Matter, that this was the leaſt Common Council of any from the firſt Propoſal of the danger of the Charter, to the laſt Act of Surrender under Seal. At this Com<g ref="char:EOLhyphen"/>mon Council, after ſome ordinary things debated and ſetled, the Mayor ſpoke publickly theſe words, or to this effect, as I have it under his own hand.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="speech">
+                        <opener>
+                           <salute>Gentlemen,</salute>
+                        </opener>
+                        <p>
+                           <hi>I am informed that a</hi> Quo Warranto <hi>will be brought againſt the Charter of the City; which if it be, for my part I will not contend with the King in it; and if I hear any thing more concerning it, I will call you together to adviſe what is fit to be done in it, for you ſhall not blame me here<g ref="char:EOLhyphen"/>after for not giving you notice, that care might have been taken to have had it prevented, and therefore I pray you to conſider of it.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Here is the Mayor's inclination ſhown, and fair notice of the danger publickly given: The next Common Coun<g ref="char:EOLhyphen"/>cil that was called, was on the 7th of <hi>February,</hi> where no mention was made of the delivery up of the Charter, but ſomething elſe very ſignificant was done, which was very ungratefull to all that favour the Model of the late dangerous and treaſonable Aſſociation, <hi>An Addreſs of Ab<g ref="char:EOLhyphen"/>horrence of the Platform of that horrid Aſſociation,</hi> that was found in the Earl of <hi>Shaftsbury</hi>'s Cloſet, paſt the Houſe in the preſence of the Mayor, 5 Juſtices, 8 that had been Mayors, and 8 more of the Common Council, in all 22, unanimouſly in theſe words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <p>
+                           <hi>Ordered,</hi> That the Addreſs now read in Common Council of our Abhorrence of that Rebellious Aſſocia<g ref="char:EOLhyphen"/>tion, found and ſeiz'd upon in the Cloſet or Study of the Earl of <hi>Shaftsbury</hi> be preſented unto his Majeſty, and the Common Seal of the Corporation be put thereto,
+<pb n="2" facs="tcp:56854:2"/>and the ſaid Addreſs to be enrolled in one of the Books of Records of the ſaid City.</p>
+                        <p>
+                           <hi>Ordered,</hi> That the ſaid Addreſs be preſented to his Majeſty from the City by Baron <hi>Gregory,</hi> Sir <hi>John Hoſ<g ref="char:EOLhyphen"/>kins,</hi> and <hi>Thomas Priſe,</hi> Eſq or any two of them.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus things ſtood till the 14th of <hi>February,</hi> and then the Mayor (being ſufficiently aſſur'd by a Letter ſhew'd him from a Perſon of Honour, that a Charge was laid againſt their Charter, and ſeveral Breaches aſſign'd, and the King preſs'd to grant a <hi>Quo Warranto,</hi> which His Ma<g ref="char:EOLhyphen"/>jeſty would not do till he had firſt an account, whether the Citizens of <hi>Hereford</hi> would not truſt to his Bounty and Clemency, rather than ſtay till they were ſo attaqu'd) called a Houſe according to his former promiſe, where their own danger, hazard and charge, the King's Graci<g ref="char:EOLhyphen"/>ous Inclinations and Intentions towards them were free<g ref="char:EOLhyphen"/>ly debated, and the Letter at large read in open Coun<g ref="char:EOLhyphen"/>cil. At this Common Council were preſent 5 Juſtices, 6 of the ancient Mayors, and 10 of the Common Coun<g ref="char:EOLhyphen"/>cil, in all 21, and all other Members of it reſiding in the County had notice; After a full Debate they came to theſe Reſolutions <hi>Nemine Contradicente.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <p>
+                           <hi>Ordered,</hi> That the preſent Charter of the City be de<g ref="char:EOLhyphen"/>liver'd up unto His Majeſty, and that <hi>Richard Gower,</hi> Eſq Mayor, <hi>Bridſtock Harford,</hi> Eſq <hi>Herbert Aubrey,</hi> Eſq <hi>Thomas Clark,</hi> Gent. Town-Clerk of the ſaid City, and <hi>Thomas Clark</hi> Jun. Gent. do ſurrender the ſaid Charter unto His Majeſty, and do deliver the Petition now read in Common Council unto His Majeſty for a new Charter, and to ſolicite and follow the procuring the ſame; and if any other of the Common Council deſire to go with Mr. Mayor, they (if they pleaſe) may.</p>
+                        <p>
+                           <hi>Ordered,</hi> That what Money Mr. <hi>Thomas Clark,</hi> Jun. ſhall diſburſe for the renewing the Charter of the ſaid City, he ſhall be repaid the ſame with the Intereſt there<g ref="char:EOLhyphen"/>of out of the firſt Money that comes into the Chamber of the ſaid City, and to have the Common Seal for the ſame when the Charter is renew'd for performance thereof.</p>
+                        <p>
+                           <hi>Ordered,</hi> That the Petition now read in Common Council being corrected and amended, be preferr'd unto His Majeſty for the renewing of the Charter of the City.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now to aſſure you that all manner of care was taken for the preſervation of the Rights of the City, you may at large reade the Petition it ſelf.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the King's moſt Excellent Majeſty. The humble Petition of the Mayor, Aldermen and Citizens of the City of <hi>Hereford.</hi>
+                        </head>
+                        <p>Humbly ſheweth,</p>
+                        <p>
+                           <hi>THat your Petitioners have not only by ſeveral Grants of your Renowned Progenitors of ancient time been a City and Town Incorporate, and obtain'd and enjoy'd very great Liberties, Franchiſes and Juriſdictions, but alſo in the time of your Royal Father (whoſe Memory with us is Sacred) received the indelible Characters of his Grace and Favour for their conſtant and uncorrupted Loyalty, which they ſtill retain, being alway ready and willing to ſacrifice their Lives and Fortunes for the preſervation of Your Sacred Perſon, the Proteſtant Religion as by Law eſtabliſh'd, the Succeſſion of the Crown in the Right Line, and all your undoubted Legal Rights: Yet nevertheleſs by Inadvertency, Omiſſion or Neg<g ref="char:EOLhyphen"/>lect, (without any the leaſt tincture of Diſloyalty) we appre<g ref="char:EOLhyphen"/>hend that we have hazarded the Benefits, Liberties, Franchi<g ref="char:EOLhyphen"/>ſes and Privileges, which we have enjoyed in the time of Your Sacred Majeſty and all your Royal Progenitors.</hi>
+                        </p>
+                        <p>Your Petitioners therefore humbly pray that Your Majeſty would be graciouſly pleas'd of Your Princely Clemency to Grant to your Citizens of <hi>Hereford</hi> a New Charter, with ſuch Immunities, Privileges, Franchiſes and Juriſdictions, as to Your Royal Wiſdom and Goodneſs ſhall ſeem fit, ſuch as may be equal to the large Grants of Your moſt Renowned Anceſtors, and what more in Your Regal Bounty (that inexhauſtible Exche<g ref="char:EOLhyphen"/>quer of Mercy and Goodneſs) ſhall ſeem moſt agreeable to Your Royal Pleaſure.</p>
+                        <closer>
+                           <hi>And your humble Petitioners, as in Duty bound, ſhall ever pray,</hi> &amp;c.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Charter remain'd ſtill in the Cheſt, and here was no ſnap or ſurprize; and to prevent it, time was taken for 6 days to conſider what was fit to ask for the City of ſo Gracious a Prince, and all that was propos'd was to have a New Charter with the ſame Privileges as before, and a New Fair.</p>
+            <p>On the 20th of <hi>February</hi> the Houſe met again (all the Members thereof in the County having lawfull Summons) the Perſons preſent were the Mayor, 6 of the Juſtices, 5 of the Old Mayors, and 9 of the Common Council, in all 21, and then freely and unanimouſly paſs'd this Vote.</p>
+            <p>
+               <hi>Ordered,</hi> That Mr. Mayor and thoſe Gentlemen that were nominated by the Common Council to ſolicite the renewing of the Charter, ſhall be re-imburſt their Char<g ref="char:EOLhyphen"/>ges and Expences therein, and that the preſent Charter and the Claim be by the Key-Keepers preſently deliver'd unto Mr. Mayor, which was performed accordingly.</p>
+            <p n="27">27th The Mayor, Mr. <hi>Aubrey</hi> and Mr. <hi>Clark</hi> appointed to attend His Majeſty, began their journey (Mr. <hi>Harford</hi> and the Town-Clerk being ſtaid by ſickneſs) and came to <hi>London March</hi> 2d; <hi>March</hi> the 3d the Mayor was brought to His Majeſtie's Preſence, attended with many Gentlemen of the County and City of <hi>Hereford,</hi> and humbly on his knees, in a ſhort ſignificant Speech, de<g ref="char:EOLhyphen"/>liver'd up to His Majeſty the Old Charter, and by Peti<g ref="char:EOLhyphen"/>tion pray'd a New One; The King moſt graciouſly re<g ref="char:EOLhyphen"/>ceiv'd it, and all that attended it, and gave them his hand to kiſs, and told them, That as ſoon as Mr. At<g ref="char:EOLhyphen"/>torney-General ſhould prepare things for him to Sign, he ſhould be very ready to do it, in the mean time he deſir'd the Citizens not in the leaſt to diſtruſt his kind<g ref="char:EOLhyphen"/>neſs towards them. Together with the Charter were deliver'd alſo the Acts of the Common Council, which the Members of the Corporation thought ſufficient to evidence how willingly, unanimouſly and cheerfully they had acted, but the formality of Law requir'd ſome<g ref="char:EOLhyphen"/>thing elſe to be done; There was wanting a Reſigna<g ref="char:EOLhyphen"/>tion under the City Seal to make the Surrender legally good: Of this notice enough was given, by Letters from <hi>London</hi> to Perſons of all Perſuaſions and Intereſts, but even this innocent piece of Ignorance of the Law put the thing paſt doubt of ſurprize, or the ſuggeſted want of Inclination in the Mayor, for he (to proſecute his well-grounded Reſolves to effect) goes down and (no<g ref="char:EOLhyphen"/>thing doubting the joynt Concurrence of that Houſe that had hitherto acted in this Affair with ſo much Unity) returns to <hi>Hereford</hi> the 12th of <hi>March,</hi> and on the 14th called a Common Council, and Summon'd all as former<g ref="char:EOLhyphen"/>ly upon their Free-man's Oath to appear; At this Meet<g ref="char:EOLhyphen"/>ing were preſent the Mayor and 5 Juſtices, 6 of the an<g ref="char:EOLhyphen"/>cient Mayors, 9 more of the Common Council, in all 21; and the Inſtrument of Reſignation was read in theſe words.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>TO all to whom theſe Preſents ſhall come, The Mayor, Aldermen and Citizens of the City of</hi> Hereford <hi>ſend Greeting; Know ye, That the ſaid Mayor, Aldermen and Citizens upon good and due conſiderations them thereunto moving, have ſurrendred and yielded up, and by theſe Pre<g ref="char:EOLhyphen"/>ſents do ſurrender and yield up unto our Sovereign Lord the King's moſt Excellent Majeſty, certain Letters Patents Granted by our late Sovereign Lord King</hi> James <hi>of ever-bleſſed Memory, under the Great Seal of</hi> England, <hi>bearing Date the</hi> 12th <hi>day of</hi> July, <hi>in the</hi> 17th <hi>Year of his Reign, and all and every the Immunities, Privileges, Franchiſes and Juriſdictions in and by the ſaid Letters Patents given, granted or confirmed to the Mayor, Aldermen and Citizens of the City of</hi> Hereford <hi>aforeſaid, and alſo all other Letters
+<pb n="3" facs="tcp:56854:2"/>Patents, Powers, Privileges and Immunities whatſoever, at any time or times heretofore granted to, or held or enjoyed by the ſaid Mayor, Aldermen and Citizens of the City of</hi> Hereford, <hi>or their, or any of their Predeceſſors, by any ways or means, or by what name or names ſoever, together with the ſaid Charter and Letters Patents to be cancell'd and vaca<g ref="char:EOLhyphen"/>ted upon Record. In witneſs whereof we have cauſed our Common Seal to be put at the</hi> Guild-Hall <hi>of the City of</hi> He<g ref="char:EOLhyphen"/>reford, <hi>to theſe Preſents the</hi> 14th <hi>day of</hi> March, <hi>in the</hi> 34th <hi>year of His Majeſtie's Reign,</hi> Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Dom. 1682.</p>
+               </body>
+            </floatingText>
+            <p>I thought fit to inſert this, not only to prove the Va<g ref="char:EOLhyphen"/>lidity of the Act, but for the better and eaſier Informa<g ref="char:EOLhyphen"/>tion of other Cities, that are in the Circumſtances we lately were, to whom (perhaps even to the greateſt) it may be uſefull (being drawn by a very able Lawyer) when they ſhall ſee their Errour in contending with his Maje<g ref="char:EOLhyphen"/>ſty, and come humbly to deprecate their greater Of<g ref="char:EOLhyphen"/>fences.</p>
+            <p>The Approbation and Conſent of all went along with this Act of Reſignation under Seal, as will appear by the Vote then made in theſe words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <p>
+                           <hi>Ordered,</hi> That our Act of Surrender, Reſignation, and yielding up our preſent Charter unto His Majeſty, now read in Common Council, be Seal'd with our Common Seal, (which accordingly was perform'd) and pre<g ref="char:EOLhyphen"/>ſented to His Majeſty.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus having finiſh'd with a general conſent, and com<g ref="char:EOLhyphen"/>pleated the Surrender under the Common Seal of the City, they ſent it to <hi>London,</hi> and it arrived there the 18th day of <hi>March,</hi> and was, according to Order, deliver'd: But that the Government of the City might be kept a foot, and Peace preſerv'd in the City till the New Char<g ref="char:EOLhyphen"/>ter was granted under the Broad Seal, the Surrender was not enroll'd till the New Charter was fully perfected.</p>
+            <p>By this plain account of matter of fact, ſo clearly proved by the ſeveral Gradations and diſtances of time, by the ſeveral Meetings from the 3d of <hi>February,</hi> to the 14th of <hi>March;</hi> by the fair Notices and Summons, free Debates, unanimous Conſent; by the even courſe and fair Method of Proceedings, I ſuppoſe it does manifeſtly appear to all that are willing to be convinc'd, and will not take a falſe, ſcandalous Forgery and Fiction for Truth, that the Mayor acted freely, voluntarily and cheerfully, and his Brethren unanimouſly, conſtantly and ſteddily. If any Man yet doubt what put the Corpora<g ref="char:EOLhyphen"/>tion upon this Action, and whether a <hi>Quo Warranto</hi> were ſent for or not? Let them know this for their ſatisfacti<g ref="char:EOLhyphen"/>on, that the Citizens had reaſon to be jealous their Fran<g ref="char:EOLhyphen"/>chiſes were in danger, when 18 of 31 had not taken the Oaths requir'd by the Corporation-Act in any Capacity or Employment, they had paſs'd thorow for 17 years to<g ref="char:EOLhyphen"/>gether, and alſo were every day affronted, impoſed up<g ref="char:EOLhyphen"/>on and ſlighted, as Perſons that acted extrajudicially by ſeveral that were ſatisfied of their Legal failings, and diſputed the Power and Authority by which they acted. As for the <hi>Quo Warranto,</hi> the Perſons are yet living that ſent for it, and Perſons of Honour who were applied to for the getting of it, and put a ſtop to it, can ſufficiently evince this; for the <hi>Quo Warranto</hi> was ſent for, and Breaches aſſign'd in two Sheets of Paper, written of all ſides; and thoſe ſo fatal, (as from good Authority I had the account) that the Citizens, if they contended, were morally certain to be overthrown: This was done the 11th of <hi>January</hi> laſt, the <hi>Quo Warranto</hi> was long ex<g ref="char:EOLhyphen"/>pected, and as friendly and happily prevented; for it is not the nature of the People here to contend with their King, but to ſerve him loyally and obediently.</p>
+            <p>The next baſe Reflexion that is made, is upon His Majeſtie's Truth, Goodneſs and Clemency, in theſe words.</p>
+            <p>[<hi>But lately a new Charter is return'd with Addition of a Fair, and the words</hi> Quamdiu nobis placuerit: <hi>As long as it ſhall be our Pleaſure.</hi>]</p>
+            <p>The falſe Mercury, (leſt the giddy unſtable Faction ſhould not underſtand his meaning) hath taken the pains to tranſlate it for them, but it had been better he had left them to pick out the Engliſh of it, than to have ſo factious a falſhood, ſo plainly detected, by a reciprocal Tranſlation of the Record it ſelf under the Broad Seal; The Citizens had two Fairs before, the King gives them a third, and that to begin on <hi>Wedneſday</hi> in <hi>Eaſter</hi>-week yearly, and <hi>per tres dies in perpetuum duratur,</hi> to endure for three days to perpetuity. As to the Charter it ſelf, ſo Gracious and Juſt hath His Majeſty been, according to his Royal Promiſe at the delivery of it up, that he hath not disfranchis'd one Man; he hath confirm'd their Pri<g ref="char:EOLhyphen"/>vileges, pardon'd their Omiſſions and Commiſſions of Non-uſer or Miſ-uſer of their Franchiſes in theſe words, <hi>Sive non uſi ſive abuſi fuerint,</hi> Whether they have not uſed or abuſed them; He hath left the Government in the ſame Number, with the ſame freedom of Electing all their Officers, and under the ſame Qualifications, and reſerv'd nothing to himſelf and Succeſſors, but (what cannot hurt them,) the Approbation of a High Stew<g ref="char:EOLhyphen"/>ard, Town-Clerk, and the ſix ſtanding Juſtices upon Vacancies, after they have been Elected upon that ac<g ref="char:EOLhyphen"/>count. There is the ſame preſent Mayor, and in all likelyhood the ſucceeding Mayor that was of courſe to come in by the former Charter will be elected; It is true, the King hath left out ſome that were in before, and put others in their room; a Liberty of preference, which, I ſuppoſe, is deny'd none that have (in much leſs matters than this) a power to do ſo; and 'tis ſawcily done of the Pamphletier to regret the King this Choice, which every Steward of a Leet hath in making up of a Jury, and which the Gentlemen in power within the Scribler's view do uſe frequently and freely, otherwiſe the Nation would never have been plagu'd with ſo many Ignoramus-Juries; and it would better become the good Manners of the Secretary to the Faction (who 'tis be<g ref="char:EOLhyphen"/>liev'd himſelf depends on the making ſuch Juries,) to acquieſce in His Majeſtie's Royal Will and Pleaſure, than to pretend to gueſs and inſinuate falſe Cauſes, and ſug<g ref="char:EOLhyphen"/>geſt Factious ones, which himſelf (if a diſcreet Man) cannot believe: I cannot deny but the Gentlemen that are omitted are moſt of them Obſervers and Favourers of the Church, as by Law eſtabliſh'd; but it is as true, that ſome of them were in the Common Council in the time of Rebellion, when 22 honeſt Men were in one year for their Loyalty only turn'd out, and were over-look'd in the purging Act: I wonder how Mr. <hi>Janeway</hi> comes to urge that as a good Character now, that they love the Church as by Law eſtabliſh'd, who is himſelf ſo great a Stickler for True-blew Proteſtants, and thoſe that live againſt the known Laws; but now it ſeems it ſerves a turn to inflame the angry, and animate others to an obſtinacy againſt their Prince, who are now in the ſame misfortune as to their Corporation-Delinquencies: I ſhall now trace the Beaſt a little farther in his own words.</p>
+            <p>
+               <hi>[Yet we do not hear of any thing pretended to be alledged againſt thoſe ſo omitted.]</hi>
+            </p>
+            <p>By this it appears plainly, that His Majeſty acted freely according to his Will and Pleaſure, which trou<g ref="char:EOLhyphen"/>bles Mr. <hi>Janeway</hi> ſorely, and the Mobile too.</p>
+            <p>
+               <hi>[And people are troubled to gueſs the Reaſon.]</hi>
+            </p>
+            <p>Of theſe I ſuppoſe the buſie Inflamer is moſt concern'd, but he muſt make court to his long-adored Idol the Peo<g ref="char:EOLhyphen"/>ple: But why muſt the People be ſaid to regret the King's Actions, or be at a loſs to find a Reaſon for that which they have nothing to do with? But my Maſters, and Friends, and Good People draw near, and hearken to <hi>Vox Populi,</hi> which ſome elder Pamphlets have call'd <hi>Vox Dei.</hi> You ſee by this, Republican Love cannot be hid; and now farewell to the ſtrict Obſervers and Favou<g ref="char:EOLhyphen"/>rers of the Religion as by Law eſtabliſh'd. For a Cauſe; ſee what other ſtarts up, and is as ſuddenly like a Muſh<g ref="char:EOLhyphen"/>rome of a Nights growth by himſelf deſtroy'd.</p>
+            <p>[<hi>
+                  <g ref="char:V">Ʋ</g>nleſs it ſhould be becauſe they Voted for their late Wor<g ref="char:EOLhyphen"/>thy Burgeſs, Eſq</hi> Foley.]</p>
+            <p>So did moſt of thoſe that are in the New Charter at
+<pb n="4" facs="tcp:56854:3"/>the Election of Members for the laſt Parliament, there being a very ſhort Conteſt; but you ſhall hear him an<g ref="char:EOLhyphen"/>ſwer himſelf.</p>
+            <p>
+               <hi>[But this no diſcreet Man can believe to be the Cauſe.]</hi>
+            </p>
+            <p>Why then doth the Fool urge it? yes, he had a Reaſon for it, and out it muſt.</p>
+            <p>[<hi>Eſpecially ſince 'tis not doubted but whenever his Sacred Majeſty ſhall be Graciouſly pleas'd to command an Election for Parliament, Mr.</hi> Foley <hi>will yet have as many Electors as ever.]</hi>
+            </p>
+            <p>Here is a touch of his Divination; yet as great a Con<g ref="char:EOLhyphen"/>jurer as the Gentleman is, I ſuppoſe he knows as little what the Event of the next Election of Members will be, as he knows the Time of Calling a Parliament, and muſt be contented, (Maugre all his great aſſurance) to leave the iſſue thereof to time, for many things may happen before that day, as the Converſion of Thouſands of Whiggs, the downfall of Ignoramus's, that obſtruct Juſtice, the ſuppreſſion of Faction, the condign puniſh<g ref="char:EOLhyphen"/>ment, as well as detection, of the Favourers and Heads of Diviſion, and Underminers of the Government, the frequent uſe of the Pillory for Libellers, and a juſt va<g ref="char:EOLhyphen"/>lue put upon the beſt of Kings and beſt of Governments; however, I ſuppoſe this great Undertaker keeps no En<g ref="char:EOLhyphen"/>ſurance-Office for Parliament-Adventurers. It is evi<g ref="char:EOLhyphen"/>dent to all ſober unprejudic'd perſons, that Mr. <hi>Jane<g ref="char:EOLhyphen"/>way</hi>'s Exceptions (though falſe) againſt the Proceed<g ref="char:EOLhyphen"/>ings of the Corporation, are not out of any Pique he hath to a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y perſon now in the ſame, or to any defence he is concern'd in for any Man that is out; but the Hire<g ref="char:EOLhyphen"/>ling writes to pleaſe a Party, and to ingratiate himſelf with a Faction, that gives him Bread, and ſupports him to amuſe the credulous Rabble by reflecting upon the Government, as he hath ſcurrilouſly done in his Pam<g ref="char:EOLhyphen"/>phlet, otherwiſe he durſt never have ſo maliciouſly abuſed his Majeſty with averring and publiſhing of things quite contrary to the Record, for in the whole Charter which I have had occaſion often to reade over, there are no ſuch words in it as <hi>Quamdiu nobis placuerit;</hi> but it is as full in all reſpects (except in thoſe before mentioned) as ever; and whereas he ſeems to keep aloof of, and is for his Necks ſake tender of making mention of his Majeſty; yet I would fain know upon whom that Reflexion of diſplacing the ſtrict Obſervers and Favourers of the Church, as by Law eſtabliſh'd, (which in the Charter is alledged to be done) muſt ultimately reſt.</p>
+            <p>Now I ſuppoſe I have given you a faithfull and full account of this matter, as to what concerns the Char<g ref="char:EOLhyphen"/>ter, any perſon yet doubting may have recourſe to the Signet-Office, Privy-Seal or Patent-Office for his bet<g ref="char:EOLhyphen"/>ter ſatisfaction; I ſhould be aſham'd to miſ-recite a Re<g ref="char:EOLhyphen"/>cord, but much more to miſ-repreſent it to the People with falſe Gloſſes, nay falſhood it ſelf, as the foul-mouth'd Pamphletier hath done: The Gentlemen by the King's favour, new put into Employment in the new Charter, do not ſo much think themſelves expos'd in this baſe, vile, falſe, ſcurrilous Pamphlet, as they do ap<g ref="char:EOLhyphen"/>prehend the King reflected on, and the Government in<g ref="char:EOLhyphen"/>jur'd: It is publickly known to all, that at this time ſome conſiderable Charters are upon the point of Tryal, and that many more are in ill Circumſtances, and willing to ſurrender; At this time to render the King incon<g ref="char:EOLhyphen"/>ſta<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t in his promiſes, ſevere in taking advantages of his Subjects (that were willing to own their Omiſſions, and to ſue for pardon, and a renewal of their forfeited Fran<g ref="char:EOLhyphen"/>chiſes, and to lay their Charters humbly at his Maje<g ref="char:EOLhyphen"/>ſtie's feet, (which are already under his power) in hopes of being reſtor'd to the ſame, if not greater Privileges) is to make the beſt of Kings odious, and the ſubmiſſive Subjects ſtubborn and obdurate to all the Offers of Cle<g ref="char:EOLhyphen"/>mency and Grace, and rather fond to eſpouſe and con<g ref="char:EOLhyphen"/>tend for a miſtaken Right to the uttermoſt, than truſt or fall into the kind expanded Arms of Royal Mercy, which never yet fail'd the penitent Delinquent, and under which (if you will believe the perſon that hath provok'd it often, forfeited it more, and needs it moſt) the unfortunate fall gently; and if I be not miſtaken, this at laſt muſt be the refuge of this profligate wretch, who is (without the King's Mercy, which he hath often abus'd) utterly undone; beſides, the Actions and In<g ref="char:EOLhyphen"/>dictments which he is liable to for the ſeveral Libels ſent out into the Nation by him, that do countenance Faction, and diſcourage and abuſe the honeſt actings of the King's beſt Subjects is a load he will hardly be able long to bear the weight of, but muſt ſink under it; for little <hi>Hancock</hi> tells us in a late News-Letter ſent to this Town, that the Government is too powerfull for Mr. <hi>Janeway:</hi> It is to be hoped, that on the one ſide the diſcerning part of the Nation will be able to diſcover the Cheats put upon them, the Artifices and Tricks of a deſperate Party and Faction, the daring impudence of Mercenary Libellers, and that the miſ-guided and miſ-informed people will return to their Duty, and be ſhamm'd and trepan'd no more into a diſeſteem of the Prince, a diſvalue of his Government, a good opini<g ref="char:EOLhyphen"/>on of the Factious, and a prejudice againſt them that love the King and his Government in Church and State, as it is now exercis'd, and by Law eſtabliſh'd: I have been forced for the Vindication of the honeſt Actions of the Citizens, which have been ſo manifeſtly traduc'd by the unbounded Liberty of the ſcurrilous Intelligen<g ref="char:EOLhyphen"/>cer, to ſtretch this beyond the due limits of a Letter, to ſhew by undeniable Arguments the fair Method of all the Proceedings, the Mercy and Goodneſs of his Ma<g ref="char:EOLhyphen"/>jeſty in pardoning, and his Juſtice and Gracious Favour in re-granting our Liberties when forfeited by Law, and that with an advantageous addition. You may here ſee a Generous Prince holding forth his Sceptre of Grace to his loyal, but ſubmiſſive Subjects, preventing their fears, meeting their wants, and relieving them with Honour and Juſtice; and I do ſtedfaſtly believe, that no perſon, no body of Men, whether incorporated or not, (if in our late condition or worſe, as perhaps now ſome expecting Judgment are,) unleſs they have ſtrangely demerited and diſoblig'd his Sacred Majeſty, but may ſafer confide in his Mercy and Goodneſs, than in all the dark Umbrages and cunning Sophiſtry of the wreſted Law, and all the thin Cobweb Pretenſions of their own Innocency and avowed Right; for we have ſuch a Prince as none can in Reaſon ask what he will not in Goodneſs grant, or err ſo far, (and that ſome happily know) that he cannot with Clemency forgive; and this is all that can be ſaid in favour of ſome great diſturbers of the Government, and is all their hopes, that they have not yet in their Crimes exceeded his Natural Genius of pardoning: In this Rank our Scribler is one, who will find it the beſt Game he can play to make an early ap<g ref="char:EOLhyphen"/>plication to a juſtly incenſed Prince, and ſhew this one mark of his Chriſtianity, that he is not obſtinate paſt repenting; a Pardon ſo gain'd would prevent thoſe miſ<g ref="char:EOLhyphen"/>chiefs which will juſtly fall upon his head, from the maliciouſly abuſed Lovers of the King and Government; and it may be in imitation of the Royal Clemency, the ſeveral good Subjects that are ſo highly and undeſervedly provok'd, may follow the grand Exemplar of Goodneſs and Patience, and Pardon too; If not, I ſuppoſe a ſharp and ſudden courſe of Juſtice will be his Fate and For<g ref="char:EOLhyphen"/>tune. I take leave to ſubſcribe my ſelf</p>
+            <closer>
+               <signed>Your faithfull humble Servant.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joanna Brome.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
